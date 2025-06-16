@@ -26,5 +26,5 @@ The dataset (`kenya_student_data.csv`) includes variables like study hours, fami
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kenyan-student-data-analysis.git
+   git clone https://github.com/akimani/kenyan-student-data-analysis.git
    cd kenyan-student-data-analysis
